@@ -46,7 +46,7 @@ function changeContent() {
 
 // 6. Show sum of 5 + 6
 function showSum() {
-  const sum = 3 + 7;
+  const sum = 5 + 6;
   const result = document.getElementById("sumResult");
   result.textContent = `The sum of 5 + 6 is ${sum}.`;
 }
